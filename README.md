@@ -1,8 +1,8 @@
-# datasets
+# DATASETS
 
 Dear students,
 
-in this repo you can find all datasets we use during our course, as well as those proposed for your portfolio projects. Datasets are classified by categories (Data Science, Machine Learning, Deep Learning etc), and sub_categories that reflect the type of problem to solve (EDA, Classification, Regression etc), so it is easy to navigate using Table of Contents. Also, for each dataset I specify relative knowledge/skills you will demonstrate by working with it. I specify also the source of each dataset, both to respect copyrights and to give you alternative way to download it directly from original source if you want to have the latest updated version.  
+in this repo you can find all datasets we use during our course, as well as those proposed for your portfolio projects. Datasets are classified by categories (Data Science, Machine Learning, Deep Learning etc), and sub_categories that reflect the type of problem to solve (Classification, Regression etc), so it is easy to navigate using Table of Contents. Also, for each dataset I specify relative knowledge/skills you will demonstrate by working with it. I specify also the source of each dataset, both to respect copyrights and to give you alternative way to download it directly from original source if you want to have the latest updated version.  
 
 Good luck!  
 

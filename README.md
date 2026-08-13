@@ -25,8 +25,8 @@ Good luck!
 * [MathE dataset.csv](./MathE%20dataset.csv) (downloaded from https://archive.ics.uci.edu/dataset/1031/dataset+for+assessing+mathematics+learning+in+higher+education): this dataset contains math knowledge evaluation data, covering different topics (like Linear Algebra, Differentiation, Integration etc), subtopics, student ID, question ID, type of answer (correct/wrong) etc., and may be used both for _learning purpose_ and for _portfolio_ if __advanced detailed analysis__ with good storytelling and visualization is performed.    
   Knowledge: Python, NumPy, Pandas, Matplotlib, Seaborn.    
   Skills: Data Cleaning, Data Wrangling, Visualization, Storytelling/Analysis.    
-* __Unemployment Rate.xls__ (downloaded from https://datacatalog.worldbank.org/search/dataset/0037798/global-economic-monitor (Last Updated: Jul 21, 2026) Size: 10.1 MB): this dataset from worldbank covers unemployment rates from all countries in years [TODO]      
-* __LoanApprovalPrediction.csv__ - downloaded from https://drive.google.com/file/d/1LIvIdqdHDFEGnfzIgEh4L6GFirzsE3US/view    
+* [Unemployment Rate.xls](./Unemployment%20Rate.xls) (downloaded from https://datacatalog.worldbank.org/search/dataset/0037798/global-economic-monitor (Last Updated: Jul 21, 2026) Size: 10.1 MB): this dataset from worldbank covers unemployment rates from all countries in years [TODO]      
+* [LoanApprovalPrediction.csv](./LoanApprovalPrediction.csv) (downloaded from https://drive.google.com/file/d/1LIvIdqdHDFEGnfzIgEh4L6GFirzsE3US/view)    
 
 
 ### Time Series
